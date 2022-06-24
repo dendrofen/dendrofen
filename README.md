@@ -12,7 +12,5 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dendrofen/)
 
-[![telegram](https://img.shields.io/badge/telegram-eee?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dendrofen)
-
-[![telegram](https://img.shields.io/badge/gmail-eee?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ma9k97dev@gmail.com?subject=Request_from_github&message=Greetings!_Contact_me.)
+[![telegram](https://img.shields.io/badge/gmail-eee?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ma9k97dev@gmail.com?subject=Contact Dendrofen from Github Link&message=Greetings!_Contact_me.)
 
