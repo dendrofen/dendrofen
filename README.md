@@ -9,8 +9,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dendrofen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔗 How to reach me
-[![portfolio](https://img.shields.io/badge/my_virtual_office-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://inplayo.com/)
-
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dendrofen/)
 
 [![gmail](https://img.shields.io/badge/gmail-eee?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ma9k97dev@gmail.com)
